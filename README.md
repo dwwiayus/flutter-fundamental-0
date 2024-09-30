@@ -1,16 +1,20 @@
-# hello_world
+Praktikum 1: Membuat Project Flutter Baru
+![Screenshot (16)](https://github.com/user-attachments/assets/b7b7ae87-a6b1-4581-bde5-d15a52c9aa94)
 
-A new Flutter project.
+ Praktikum 2: Membuat Repository GitHub dan Laporan Praktikum
+ ![Screenshot (22)](https://github.com/user-attachments/assets/f7da32b6-8588-4612-91d6-65fe52cc492a)
 
-## Getting Started
+Praktikum 3: Menerapkan Widget Dasar
+![Screenshot (17)](https://github.com/user-attachments/assets/8dfb1db0-621f-4a09-b42c-717ccac29263)
 
-This project is a starting point for a Flutter application.
+Praktikum 4: Menerapkan Widget Material Design dan iOS Cupertino
+![Screenshot (18)](https://github.com/user-attachments/assets/b57ecb55-b69b-4ce6-8668-3d98a23184da)
 
-A few resources to get you started if this is your first Flutter project:
+Dialog Widget
+![Screenshot (19)](https://github.com/user-attachments/assets/556e6a9c-fe71-47e3-94e6-81a42ebbed7e)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Input dan Selection Widget
+![Screenshot (20)](https://github.com/user-attachments/assets/c299bf73-a34f-4393-8ae6-5084756d6929)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Date and Time Pickers
+![Screenshot (21)](https://github.com/user-attachments/assets/262736ac-041b-46c5-b35d-afade46793c4)
